@@ -44,8 +44,6 @@ PIC18F47Q43 emu6809LED_DEMO_Q43.hex
 PIC18F47Q83 emu6809LED_DEMO_Q8x.hex  
 PIC18F47Q84 emu6809LED_DEMO_Q8x.hex  
 
-```
-
 ## 6809プログラムの改編
 バイナリデータをテキストデータ化してファームウェアの配列rom[]に格納すると6809で実行できます。
 
